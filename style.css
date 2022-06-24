@@ -85,3 +85,15 @@ html, body {
   }
   /* I am using this bottom class to create a blank header line
   at the top of the page. */ 
+  a:link {
+    color: blue;
+  }
+  a:visited {
+    color: purple;
+  }
+  a:hover {
+  color: lightblue;
+  }
+  a:active {
+  color:green;
+  }
